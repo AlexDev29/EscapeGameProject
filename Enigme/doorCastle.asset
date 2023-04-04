@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c39a23effc5524ea9ce5f4a8b3987d, type: 3}
+  m_Name: doorCastle
+  m_EditorClassIdentifier: 
+  ID: 0
+  nom: Door Castle
+  enigmeUI: {fileID: 4205162894740283789, guid: 1cd481e0871ee6c4aad4580f687e210e, type: 3}
+  dialogue:
+  - author: Moi
+    message: "On dirait que la porte est bloqu\xE9 par un m\xE9canisme ! Quel est
+      cet endroit ?"
+  - author: Moi
+    message: Il y a un message d'inscrit.
+  - author: Inscription
+    message: "<i>Seul le d\xE9tenteur des 5 orbes peut acc\xE9der au tr\xE9sors !</i>"
+  - author: Moi
+    message: On dirait que je n'ai pas le choix.
